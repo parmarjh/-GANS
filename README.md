@@ -10,16 +10,6 @@ Each implementations contains
 3. generator and discriminator weights
 4. the pdf of the paper.
 
-
-# Webapp using streamlit : Generate numbers from 0 - infinity :)
-
-![alt text](https://github.com/evilc3/GANS/blob/master/web_app_giff.gif)
-
-
-The above web app uses a deep conv conditional gan using the mnist dataset.
-
-
-
 ### List of different Gans Implemented 
 <pre>
 1. Simple Gan (2014)
@@ -30,6 +20,12 @@ The above web app uses a deep conv conditional gan using the mnist dataset.
 </pre>
 
 
+## Webapp using streamlit : Generate numbers from 0 - infinity :)
+
+![alt text](https://github.com/evilc3/GANS/blob/master/web_app_giff.gif)
+
+
+#### The above web app uses a deep conv conditional gan using the mnist dataset.
 
 
 ## Refrences 
