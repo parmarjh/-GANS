@@ -2,11 +2,29 @@
 
 ## implementing differnt gans networks in pytorch
 
-A video demo, with the generator and discriminator weights is available.
+Whats available?
+Each implementations contains 
+
+1. jupyter notebook
+2. a video demo
+3. generator and discriminator weights
+4. the pdf of the paper.
 
 
-###List of different Gans Implemented 
 
+### List of different Gans Implemented 
+<pre>
+1. Simple Gan (2014)
+2. DCGAN
+3. CGAN (linear layers)
+4. LSGAN (in this only the loss function is change from BCE to MSE)
+5. Deep Convolutional Conditional Gan
+</pre>
+
+
+
+
+## Refrences 
 
 1.### Simple GANS:
 _Generative Adversarial Network_
@@ -22,7 +40,7 @@ We propose a new framework for estimating generative models via an adversarial p
  
     
 
- 2.### Deep Convolutional GAN
+ 2. ###  Deep Convolutional GAN
 _Deep Convolutional Generative Adversarial Network_
 
 
@@ -35,7 +53,7 @@ In recent years, supervised learning with convolutional networks (CNNs) has seen
 [[Paper]](https://arxiv.org/abs/1511.06434)
 
 
-3.### Conditional GAN
+3. ###  Conditional GAN
 _Conditional Generative Adversarial Nets_
 
 #### Authors
