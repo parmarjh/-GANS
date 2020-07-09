@@ -6,7 +6,7 @@ A video demo, with the generator and discriminator weights is available.
 
 
 ###List of different Gans Implemented 
-<pre>
+
 
 1.### Simple GANS:
 _Generative Adversarial Network_
@@ -47,5 +47,3 @@ Generative Adversarial Nets [8] were recently introduced as a novel way to train
 [[Paper]](https://arxiv.org/abs/1411.1784)
 
 
-
-</pre>
