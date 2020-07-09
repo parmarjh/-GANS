@@ -11,6 +11,11 @@ Each implementations contains
 4. the pdf of the paper.
 
 
+# Webapp using streamlit 
+
+![alt text](http:)
+
+
 
 ### List of different Gans Implemented 
 <pre>
