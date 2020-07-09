@@ -11,9 +11,12 @@ Each implementations contains
 4. the pdf of the paper.
 
 
-# Webapp using streamlit 
+# Webapp using streamlit : Generate numbers from 0 - infinity :)
 
-![alt text](http:)
+![alt text](https://github.com/evilc3/GANS/blob/master/web_app_giff.gif)
+
+
+The above web app uses a deep conv conditional gan using the mnist dataset.
 
 
 
