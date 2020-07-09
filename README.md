@@ -28,7 +28,10 @@ Each implementations contains
 #### The above web app uses a deep conv conditional gan using the mnist dataset.
 
 
-## Refrences 
+
+
+
+## Refrences to Gan architechures.
 
 1.### Simple GANS:
 _Generative Adversarial Network_
