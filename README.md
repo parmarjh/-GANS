@@ -27,8 +27,14 @@ Each implementations contains
 
 #### The above web app uses a deep conv conditional gan using the mnist dataset.
 
+<pre>
 
 
+
+
+
+
+</pre>
 
 
 ## Refrences to Gan architechures.
